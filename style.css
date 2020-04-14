@@ -1,0 +1,19 @@
+h1{
+  text-align:center;
+  border-bottom: 1px solid;
+  padding: 25px;
+  margin:0;
+}
+
+#grid{
+ display: grid;
+ grid-template-columns: 150px 1fr;
+}
+#grid ol {
+ border-right: 1px solid;
+ margin:0;
+ padding: 20px;
+}
+#article {
+ padding:13px;
+}
