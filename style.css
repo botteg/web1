@@ -3,6 +3,7 @@ h1{
   border-bottom: 1px solid;
   padding: 25px;
   margin:0;
+  font-size:40px;
 }
 
 #grid{
@@ -13,6 +14,7 @@ h1{
  border-right: 1px solid;
  margin:0;
  padding: 20px;
+ font-size:20px;
 }
 #article {
  padding:13px;
